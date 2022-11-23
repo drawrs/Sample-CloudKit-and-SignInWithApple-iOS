@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F8D161C5-BF05-4F68-9569-9285296653D3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50882860-35E4-44A4-A973-D1F18F3C3F64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample CloudKit and SignInWithApple iOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "fetchUserProfile(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9096F3B-D4D2-458A-8B12-DB573F839F78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample CloudKit and SignInWithApple iOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "appleIDAuthenticationCheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB522E0D-8C44-4BF8-A2F5-49003910831D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample CloudKit and SignInWithApple iOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "appleIDAuthenticationCheck()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB522E0D-8C44-4BF8-A2F5-49003910831D - 2b90785325634667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Sample_CloudKit_and_SignInWithApple_iOS.UserProfile) -&gt; () in closure #1 (__C.ASAuthorizationAppleIDProviderCredentialState, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sample_CloudKit_and_SignInWithApple_iOS.ViewController.appleIDAuthenticationCheck() -&gt; ()"
+                  moduleName = "Sample CloudKit and SignInWithApple iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hilman/Documents/Cohort%203%20ILB%20-%20iOS%20Project/Sample%20CloudKit%20and%20SignInWithApple%20iOS/Sample%20CloudKit%20and%20SignInWithApple%20iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "DB522E0D-8C44-4BF8-A2F5-49003910831D - 19d0261d85128673"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Sample_CloudKit_and_SignInWithApple_iOS.UserProfile) -&gt; () in closure #1 (__C.ASAuthorizationAppleIDProviderCredentialState, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Sample_CloudKit_and_SignInWithApple_iOS.ViewController.appleIDAuthenticationCheck() -&gt; ()"
+                  moduleName = "Sample CloudKit and SignInWithApple iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hilman/Documents/Cohort%203%20ILB%20-%20iOS%20Project/Sample%20CloudKit%20and%20SignInWithApple%20iOS/Sample%20CloudKit%20and%20SignInWithApple%20iOS/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70F7DC58-8BA3-43FB-B263-0E2C89530B6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sample CloudKit and SignInWithApple iOS/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "appleIDAuthenticationCheck()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
